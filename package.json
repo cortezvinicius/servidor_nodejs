@@ -8,6 +8,16 @@
     "dev":"nodemon server.js",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cortezvinicius/servidor_nodejs.git"
+  },
+  "author": "Vinicius Cortez",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cortezvinicius/servidor_nodejs/issues"
+  },
+  "homepage": "https://github.com/cortezvinicius/servidor_nodejs#readme",
   "dependencies": {
     "cors": "^2.8.5",
     "express": "^4.17.1",
